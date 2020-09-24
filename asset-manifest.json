@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.debcb825.chunk.css",
+    "main.js": "/static/js/main.1eb6f2cd.chunk.js",
+    "main.js.map": "/static/js/main.1eb6f2cd.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7f426e5b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7f426e5b.js.map",
+    "static/js/2.1f490a09.chunk.js": "/static/js/2.1f490a09.chunk.js",
+    "static/js/2.1f490a09.chunk.js.map": "/static/js/2.1f490a09.chunk.js.map",
+    "static/css/3.879e9400.chunk.css": "/static/css/3.879e9400.chunk.css",
+    "static/js/3.94b0cddf.chunk.js": "/static/js/3.94b0cddf.chunk.js",
+    "static/js/3.94b0cddf.chunk.js.map": "/static/js/3.94b0cddf.chunk.js.map",
+    "static/css/4.54df59d4.chunk.css": "/static/css/4.54df59d4.chunk.css",
+    "static/js/4.19a733b1.chunk.js": "/static/js/4.19a733b1.chunk.js",
+    "static/js/4.19a733b1.chunk.js.map": "/static/js/4.19a733b1.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.76c4cf154e3b7ebeefc884a7c8e00a13.js": "/precache-manifest.76c4cf154e3b7ebeefc884a7c8e00a13.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/3.879e9400.chunk.css.map": "/static/css/3.879e9400.chunk.css.map",
+    "static/css/4.54df59d4.chunk.css.map": "/static/css/4.54df59d4.chunk.css.map",
+    "static/css/main.debcb825.chunk.css.map": "/static/css/main.debcb825.chunk.css.map",
+    "static/js/2.1f490a09.chunk.js.LICENSE.txt": "/static/js/2.1f490a09.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/anassPortrait.jpg": "/static/media/anassPortrait.df8cf2c2.jpg",
+    "static/media/codeInLogo.webp": "/static/media/codeInLogo.47a7a717.webp",
+    "static/media/developerActivity.svg": "/static/media/developerActivity.3a9d0a1a.svg",
+    "static/media/evboxLogo.jpg": "/static/media/evboxLogo.ca4c603e.jpg",
+    "static/media/googleAssistantLogo.webp": "/static/media/googleAssistantLogo.d41d8cd9.webp",
+    "static/media/hacker.svg": "/static/media/hacker.ec8d91f3.svg",
+    "static/media/logo.svg": "/static/media/logo.25bf045c.svg",
+    "static/media/mail.svg": "/static/media/mail.90446cd2.svg",
+    "static/media/nextuLogo.webp": "/static/media/nextuLogo.829ad0a1.webp",
+    "static/media/pwaLogo.webp": "/static/media/pwaLogo.ee62cb58.webp",
+    "static/media/saayaHealthLogo.webp": "/static/media/saayaHealthLogo.25018d29.webp",
+    "static/media/tiLogo.jpg": "/static/media/tiLogo.ea0bc506.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f426e5b.js",
+    "static/js/2.1f490a09.chunk.js",
+    "static/css/main.debcb825.chunk.css",
+    "static/js/main.1eb6f2cd.chunk.js"
+  ]
+}
